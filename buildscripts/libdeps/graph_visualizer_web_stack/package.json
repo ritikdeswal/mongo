@@ -20,7 +20,7 @@
     "@material-ui/core": "5.0.0-alpha.22",
     "@material-ui/icons": "5.0.0-alpha.22",
     "@material-ui/lab": "5.0.0-alpha.22",
-    "canvas": "^2.5.0",
+    "canvas": "^3.0.0",
     "date-fns": "^2.16.1",
     "dayjs": "^1.9.7",
     "http-server": "^0.13.0",
